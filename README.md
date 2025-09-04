@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erinald
-- 👀 I’m interested in programming both traditional andd web based
+- 👀 I’m interested in programming both traditional and web based
 - 🌱 I’m currently learning Python programing
 - 💞️ I’m looking to collaborate on project that requires python skillset
 - 📫 How to reach me +233 209336689
